@@ -1,4 +1,4 @@
-# FitPeo webpabe
+# FitPeo webpage
 
 ## Components
 
